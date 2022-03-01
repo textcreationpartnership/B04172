@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass for a Christian family; or, A warning for all people to serve God. Good people, in this glass you may behold the joy and comfort the godly are in, the wicked being accursed for evermore: likewise the great cause the Lord sends such sore judgements among us for our sins and wickedness, and worser he will send if we repent not in time. The tune is, Aim not too high.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678-1681?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04172</idno>
+            <idno type="STC">Wing L3012</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[156]</idno>
+            <idno type="EEBO-CITATION">99887197</idno>
+            <idno type="PROQUEST">ocm99887197</idno>
+            <idno type="VID">181905</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04172)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181905)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[156])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass for a Christian family; or, A warning for all people to serve God. Good people, in this glass you may behold the joy and comfort the godly are in, the wicked being accursed for evermore: likewise the great cause the Lord sends such sore judgements among us for our sins and wickedness, and worser he will send if we repent not in time. The tune is, Aim not too high.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F[rancis]. Coles, T[homas]. Vere, I[ohn]. Wright, I[ohn]. Clarke, VV[illiam]. Thackeray, and T[homas]. Passenger,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1678-1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "All you that fear the Lord that rules the sky ..."</note>
+                  <note>Date, place of publication and publisher's names from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181905:1"/>
+            <!-- PDF PAGE 15 -->
+            <head>A Looking-Glaſs for a Chriſtian Family; <hi>OR,</hi> A Warning for all People to Serve God.</head>
+            <argument>
+               <p>Good people, in this Glaſs you may behold the joy and Comfort the Godly are in, the wicked being accurſed for evermore: Likewiſe the great cauſe the Lord ſends ſuch ſore Judgements among us for our Sins and Wickedneſs, and worſer he will ſend if we repent not in time.</p>
+            </argument>
+            <opener>The Tune is, <hi>Aim not too High.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure>
+                  <sp>
+                     <p>My Gold is my God.</p>
+                  </sp>
+               </figure>
+            </p>
+            <lg>
+               <l>ALL you that fear the Lord that rules the sky</l>
+               <l>and fear his holy Name that ſits on high:</l>
+               <l>Do but obſerve theſe Lines which I have pen'd;</l>
+               <l>I hope 'twill be a means your Lives to amend.</l>
+            </lg>
+            <lg>
+               <l>You ſee that Charity is fled and gone,</l>
+               <l>And Love and Vnity is left alone:</l>
+               <l>Where as plain-dealing us'd to bear the ſway,</l>
+               <l>Deceit and Cozening it hath got the day.</l>
+            </lg>
+            <lg>
+               <l>Oh is it not a grievous ſight to ſee,</l>
+               <l>The Son againſt the Father for to be:</l>
+               <l>The Daughter curſe and ban her Mother dear,</l>
+               <l>To bring her up ſhe always took great care.</l>
+            </lg>
+            <lg>
+               <l>This is the cauſe this Land is puniſht ſore,</l>
+               <l>And ſtill I doubt it will be more and more:</l>
+               <l>The Lord his Iudgements he doth on us ſend,</l>
+               <l>Becauſe we don't our wicked lives amend.</l>
+            </lg>
+            <lg>
+               <l>Do you not ſee in Town and City too,</l>
+               <l>Now men and womens hearts are full of woe,</l>
+               <l>Sore ſick dear Friends, O this is all their cry,</l>
+               <l>Praying to God to eaſe their miſery.</l>
+            </lg>
+            <lg>
+               <l>The burning Fevor, and pain i'th head is cheif,</l>
+               <l>And griping in the Belly's all their grief:</l>
+               <l>No eaſment can be had for it, nor cure,</l>
+               <l>But ſtill poor ſouls the ſame they muſt endure.</l>
+            </lg>
+            <lg>
+               <l>Therefore good people all both night and day,</l>
+               <l>Vnto the Lord on our knees let us pray:</l>
+               <l>That he would be pleas'd to eaſe their pain,</l>
+               <l>And grant them to their former health again.</l>
+            </lg>
+            <lg>
+               <l>O <hi>England, England,</hi> whither wilt thou hie,</l>
+               <l>Thy Sins to God for vengeance they do cry</l>
+               <l>Thy Pride and Whoredom thou ſeek'ſt to maintain</l>
+               <l>And the true Word of God doſt ſtill refrain.</l>
+            </lg>
+            <lg>
+               <l>Oh ally Soul, where will thy Pride become?</l>
+               <l>When as grim Death appears to ſtrike thee home?</l>
+               <l>Then thy Rich Iewels and thy brave attire.</l>
+               <l>Will be but Fuel for Eternal Fire.</l>
+            </lg>
+            <lg>
+               <l>then thou wilt curſe the Pride that did thee wrong</l>
+               <l>And wiſh thou'ſt dyed when thou hadſt been young:</l>
+               <l>But all's too late, and vain be ſure 'twill be,</l>
+               <l>To call for help to eaſe thy miſery.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WHen thou doſt on thy bed of languiſh lye,</l>
+               <l>Againſt thee then thy conſcience it will cry:</l>
+               <l>And witneſs all the Sins thou haſt commit,</l>
+               <l>Make thee apear for Heaven much unfit.</l>
+            </lg>
+            <lg>
+               <l>Then from thy Gold and Silver thou muſt part,</l>
+               <l>Though thou doſt leave it with a heavy heart:</l>
+               <l>But when death comes thou muſt not put him by,</l>
+               <l>Nothing ſo ſure that one day thou muſt dye.</l>
+            </lg>
+            <lg>
+               <l>Children ſee you your Parents do obey,</l>
+               <l>So Heaven will protect you night and day:</l>
+               <l>Servants be juſt to thoſe your Maſters be,</l>
+               <l>Then God will ſurely bleſs you ye ſhall ſee.</l>
+            </lg>
+            <lg>
+               <l>It grieves my very heart and ſoul to ſee,</l>
+               <l>How young Children to curſing given be:</l>
+               <l>Thoſe that can ſcarcely yet ſpeak one word plain,</l>
+               <l>Yet they can take the Name of God in vain.</l>
+            </lg>
+            <lg>
+               <l>But all you that are Mothers meek and Mild,</l>
+               <l>Do not you ſpare the Rod to ſpill the Child:</l>
+               <l>Apply the Twigs before they ſtubborn ſtand,</l>
+               <l>Leſt at laſt you cannot bend them with your hand.</l>
+            </lg>
+            <lg>
+               <l>Vphold not Children Neighbours for to wrong,</l>
+               <l>But look unto their ways in hand and tongue:</l>
+               <l>Let him be firſt a Lyer, he'l turn Theif,</l>
+               <l>Then thou'lt repent, when there is no relief.</l>
+            </lg>
+            <lg>
+               <l>Then ſilly Soul why wilt not thou amend,</l>
+               <l>Knowing that all things once will have an end:</l>
+               <l>All wordly pleaſures are but vanity,</l>
+               <l>None knows but that to morrow we muſt dye.</l>
+            </lg>
+            <lg>
+               <l>The Glutton ſhall with hunger pine away,</l>
+               <l>Drunkards the more they thirſt the more they may:</l>
+               <l>Swearers, and thoſe that do delight therein,</l>
+               <l>Be ſure in Heaven ſhall never favour win.</l>
+            </lg>
+            <lg>
+               <l>The Vſurer and thoſe that grind the poor</l>
+               <l>Are like to have a judgement very ſore:</l>
+               <l>He that doth ſeek the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iddows overthrow,</l>
+               <l>Will one day repent that e'er he did ſo.</l>
+            </lg>
+            <lg>
+               <l>But he that relieves the Widdow and Fatherleſs,</l>
+               <l>At the years end will never have the leſs:</l>
+               <l>What thou doſt give unto the Blind or Lame,</l>
+               <l>The Lord he will reſtore to thee again.</l>
+            </lg>
+            <lg>
+               <l>Suppoſe that thou had thouſands lying by,</l>
+               <l>And thou waſt ſick and full of miſery:</l>
+               <l>Would'ſt thou not give it all ſome eaſe to have?</l>
+               <l>But mind, O man, 'tan't Gold thy life can ſave.</l>
+            </lg>
+            <lg>
+               <l>And ſome ſo proud and lofty they are grown,</l>
+               <l>That a poor man in heart they ſcorn to own:</l>
+               <l>Becauſe their Riches that will ſave away,</l>
+               <l>And both their Beds muſts be a clod of Clay.</l>
+            </lg>
+            <lg>
+               <l>Theſe things my Friends ſee that you do obſerve,</l>
+               <l>And from the word of God he ſure don't ſwerve:</l>
+               <l>For fear you ſhould repent when 'tis too late,</l>
+               <l>When you ſhall ask God mercy at his gate.</l>
+            </lg>
+            <lg>
+               <l>Thus Chriſtian friends you hear in every thing,</l>
+               <l>The difference between a wicked and good thing:</l>
+               <l>He that fears the Lord a bleſſed man is he,</l>
+               <l>But for the Wicked Damned ſhall he be,</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>F. Coles, T. Vere, I. Wright, I. Clarke, VV. Thackeray,</hi> and <hi>T. Paſſenger.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
